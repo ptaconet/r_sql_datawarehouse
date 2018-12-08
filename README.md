@@ -11,7 +11,13 @@ through the PostGIS extension of PostgreSQL) ;
 - Inclusion of a table dedicated to the metadata associated to each dataset loaded in
 the data warehouse.
 
-The methodology was successfully used to implement the [global tuna atlas] (https://bluebridge.d4science.org/group/fao_tunaatlas) and the [french tropical tuna atlas] (https://bluebridge.d4science.org/web/frenchtropicaltunaatlas) data warehouses and catalogues 
+The methodology was initially developed to implement the [global tuna atlas] (https://bluebridge.d4science.org/group/fao_tunaatlas) and the [french tropical tuna atlas] (https://bluebridge.d4science.org/web/frenchtropicaltunaatlas) data warehouses and catalogues.
+
+## Fundings
+
+French Research Institute for Sustanaible Development (IRD www.ird.fr)
+
+This work has received funding from the European Union's Horizon 2020 research and innovation programme under the BlueBRIDGE project (Grant agreement No 675680).
 
 ## Repository organization
 
