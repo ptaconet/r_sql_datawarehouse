@@ -1,0 +1,9 @@
+r_scripts_datawarehouse_management : R scripts to manage the datawarehouse, including i) scripts to deploy the physical model of the datawarehouse, ii) functions to load datasets in the DW, iii) functions to retrieve datasets stored in the DW
+
+sql_scripts_datawarehouse_creation : SQL queries that are used in the R scripts to deploy the physical model of the datawarehouse
+
+workflow_etl : R scripts 
+
+figures : figures used in the documentation
+
+documentation_datawarehouse_SQL_R.pdf : documentation of the project
