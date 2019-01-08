@@ -15,7 +15,7 @@ The methodology was initially developed to implement the [global tuna atlas] (ht
 
 ## Fundings
 
-French Research Institute for Sustanaible Development (IRD www.ird.fr)
+French Research Institute for Sustanaible Development (IRD, www.ird.fr)
 
 This work has received funding from the European Union's Horizon 2020 research and innovation programme under the BlueBRIDGE project (Grant agreement No 675680).
 
